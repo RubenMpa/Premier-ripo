@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+    border: 8px;
+    border-radius: 10px 10px 10px 10px;
+    background-attachment: fixed;
+    background-color: bisque;
+}
